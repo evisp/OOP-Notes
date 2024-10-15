@@ -4,13 +4,10 @@ This repository is designed to guide you through the fundamental concepts of OOP
 
 ## 📂 **File Structure**
 
-1. **1.OOP-Intro.md**  
+1. **[1.OOP-Intro.md]((1.OOP-Intro.md))**  
    - This file provides an introduction to OOP concepts, including classes, objects and encapsulation.
    - Each section includes sample code for better understanding.
-   
-## 📖 **Getting Started**
 
-Start by exploring the key OOP concepts in [**1.OOP-Intro.md**](1.OOP-Intro.md). Follow along with the examples and practice writing your own code.
 
 ## ⏭️ **What's Next?**
 
